@@ -1,0 +1,24 @@
+{
+  "name": "cricket-info-web-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lbc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohanb459/cricket-info-web-scrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohanb459/cricket-info-web-scrapper/issues"
+  },
+  "homepage": "https://github.com/rohanb459/cricket-info-web-scrapper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
